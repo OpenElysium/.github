@@ -1,5 +1,8 @@
 # Open Elysium
 
+https://discord.gg/D9vDFvDUgC
+
+
 Preserving and modernizing *Vampire: The Masquerade – Bloodlines* (Troika
 Games, 2004) by rebuilding it from source.
 
